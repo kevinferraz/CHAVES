@@ -1,0 +1,77 @@
+body
+{
+	font-family: Tahoma
+	margin: 30px 20px 30px 20px;
+}
+
+h1
+{
+	font-size: 50px;
+	font-weight: bold;
+    background-color: green;
+    color: white;
+}
+
+h2
+{
+	font-size: 35px;
+	font-style: italic;
+    background-color: green;
+    color: white;
+}
+
+p
+{
+	text-align: justify;
+	font-size: 20px;
+}
+
+.turma
+{
+	text-decoration: underline;
+	font-style: italic;
+	text-align: right;
+	font-size: 15px;
+}
+
+.mad
+{
+	color: blue;
+}
+
+.chiq
+{
+	color: green;
+}
+
+.kiko
+{
+	color: red;
+}
+
+.chiq2
+{
+	border-width: thick;
+
+    border-style: dotted;
+
+    border-color: green;
+}
+
+.mad2
+{
+	border-width: thick;
+
+    border-style: dotted;
+
+    border-color: blue;
+}
+
+.kiko2
+{
+	border-width: thick;
+
+    border-style: dotted;
+
+    border-color: red;
+}
